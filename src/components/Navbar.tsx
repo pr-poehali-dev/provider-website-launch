@@ -20,9 +20,9 @@ export default function Navbar() {
       <div className="container mx-auto flex items-center justify-between h-16 px-4">
         <Link to="/" className="flex items-center gap-2 font-bold text-lg tracking-tight">
           <span className="w-6 h-6 rounded-sm bg-foreground flex items-center justify-center">
-            <span className="text-background text-xs font-black">N</span>
+            <span className="text-background text-xs font-black">A</span>
           </span>
-          NetLine
+          Ardivsimf
         </Link>
 
         <nav className="hidden md:flex items-center gap-6">

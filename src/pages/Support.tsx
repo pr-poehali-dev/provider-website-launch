@@ -51,7 +51,7 @@ export default function Support() {
         {[
           { icon: "Phone", label: "Горячая линия", value: "8 800 000-00-00", sub: "Бесплатно, круглосуточно" },
           { icon: "MessageCircle", label: "Онлайн-чат", value: "Чат на сайте", sub: "Ответ в течение 2 минут" },
-          { icon: "Mail", label: "Email", value: "support@netline.ru", sub: "Ответ в течение 2 часов" },
+          { icon: "Mail", label: "Email", value: "support@ardivsimf.ru", sub: "Ответ в течение 2 часов" },
         ].map((c) => (
           <div key={c.label} className="flex flex-col items-center text-center p-6 rounded-xl border border-border hover:border-accent/30 transition-colors">
             <div className="w-12 h-12 rounded-full bg-foreground/5 flex items-center justify-center mb-3">

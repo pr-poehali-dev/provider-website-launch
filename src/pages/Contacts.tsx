@@ -101,7 +101,7 @@ export default function Contacts() {
               <div className="space-y-4">
                 {[
                   { icon: "Phone", label: "Горячая линия", value: "8 800 000-00-00", sub: "Бесплатно, круглосуточно" },
-                  { icon: "Mail", label: "Email", value: "info@netline.ru", sub: "Ответим в течение 2 часов" },
+                  { icon: "Mail", label: "Email", value: "info@ardivsimf.ru", sub: "Ответим в течение 2 часов" },
                   { icon: "MapPin", label: "Офис", value: "ул. Центральная, 1, офис 301", sub: "Пн–Пт 9:00–18:00" },
                   { icon: "Clock", label: "Режим работы", value: "Пн–Вс 9:00–21:00", sub: "Техподдержка 24/7" },
                 ].map((c) => (

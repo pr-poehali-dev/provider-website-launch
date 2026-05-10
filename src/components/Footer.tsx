@@ -8,9 +8,9 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2 font-bold text-base mb-4">
               <span className="w-5 h-5 rounded-sm bg-foreground flex items-center justify-center">
-                <span className="text-background text-xs font-black">N</span>
+                <span className="text-background text-xs font-black">A</span>
               </span>
-              NetLine
+              Ardivsimf
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Быстрый и надёжный интернет для дома и бизнеса
@@ -52,13 +52,13 @@ export default function Footer() {
             <p className="text-sm font-medium mb-3">Контакты</p>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>8 800 000-00-00</li>
-              <li>info@netline.ru</li>
+              <li>info@ardivsimf.ru</li>
               <li>Пн–Вс 9:00–21:00</li>
             </ul>
           </div>
         </div>
         <div className="border-t border-border pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-xs text-muted-foreground">© 2024 NetLine. Все права защищены.</p>
+          <p className="text-xs text-muted-foreground">© 2024 Ardivsimf. Все права защищены.</p>
           <div className="flex gap-4">
             <a href="#" className="text-xs text-muted-foreground hover:text-foreground transition-colors">Политика конфиденциальности</a>
             <a href="#" className="text-xs text-muted-foreground hover:text-foreground transition-colors">Пользовательское соглашение</a>

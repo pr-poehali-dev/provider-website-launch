@@ -21,7 +21,7 @@ export default function About() {
         <div className="max-w-3xl">
           <h1 className="text-4xl font-bold tracking-tight mb-4">О компании</h1>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            NetLine — региональный интернет-провайдер с 2012 года. Мы строим современную инфраструктуру
+            Ardivsimf — региональный интернет-провайдер с 2012 года. Мы строим современную инфраструктуру
             и обеспечиваем надёжный доступ в интернет для жителей и бизнеса.
           </p>
         </div>
